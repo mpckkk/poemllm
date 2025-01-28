@@ -25,3 +25,11 @@ python model.py data/input.txt
 ```
 
 ![Training and Validation Loss Plot](image/training_validation_loss.png)
+
+
+**This project utilizes the Transformer architecture, as introduced in the paper**: Attention is All You Need
+
+
+The Transformer model revolutionized natural language processing (NLP) by replacing recurrent layers with self-attention mechanisms, enabling parallelization and improved performance on sequence-to-sequence tasks. This project implements key components of the Transformer, such as multi-head self-attention and positional encoding, to achieve state-of-the-art results in.
+
+For more details, refer to the [original paper](https://arxiv.org/pdf/1706.03762).
