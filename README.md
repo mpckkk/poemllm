@@ -23,3 +23,5 @@ After set up the environment, run command
 ```
 python model.py data/input.txt
 ```
+
+![Training and Validation Loss Plot](image/training_validation_loss.png)
