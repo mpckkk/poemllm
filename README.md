@@ -1,5 +1,5 @@
 # Transformer-based Language Model from Scratch
-This project implements a Transformer-based Language Model from scratch using PyTorch. The model is trained on the TinyShakespeare dataset and is capable of generating text in the style of Shakespeare. The implementation includes multi-head self-attention, positional embeddings, and a simple training loop.
+This project implements a Transformer-based Language Model from scratch using PyTorch. The model is trained on the TinyShakespeare dataset and is capable of generating text in the style of Shakespeare. 
 
 # Features
 
