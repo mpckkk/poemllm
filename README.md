@@ -21,5 +21,5 @@ CUDA (optional, for GPU acceleration)
 
 After set up the environment, run command 
 ```
-python modle.py data/input.txt
+python model.py data/input.txt
 ```
