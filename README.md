@@ -18,3 +18,8 @@ Python 3.7+
 PyTorch 1.10+
 
 CUDA (optional, for GPU acceleration)
+
+After set up the environment, run command 
+```
+python modle.py data/input.txt
+```
