@@ -14,5 +14,7 @@ This project implements a Transformer-based Language Model from scratch using Py
 # Requirements
 
 Python 3.7+
+
 PyTorch 1.10+
+
 CUDA (optional, for GPU acceleration)
