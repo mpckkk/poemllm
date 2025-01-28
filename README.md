@@ -1,4 +1,4 @@
-# Transformer-based Language Model
+# Transformer based Language Model
 This project implements a Transformer-based Language Model from scratch using PyTorch. The model is trained on the TinyShakespeare dataset and is capable of generating text in the style of Shakespeare. 
 
 # Features
